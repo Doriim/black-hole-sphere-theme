@@ -2,7 +2,7 @@
   "name": "black-hole-sphere-theme",
   "displayName": "Black Hole Sphere Theme",
   "description": "A Dark theme for VS Code by Doriim",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.84.0"
   },
