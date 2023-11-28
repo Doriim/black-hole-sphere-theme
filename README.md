@@ -10,4 +10,4 @@
 
 ### Preview
 
-   <img alt="Black Hole Sphere Theme Preview" src="./images/preview.png">
+![Black Hole Sphere Theme Preview](https://raw.githubusercontent.com/Doriim/black-hole-sphere-theme/main/images/preview.png)
