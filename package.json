@@ -1,0 +1,36 @@
+{
+  "name": "black-hole-sphere-theme",
+  "displayName": "Black Hole Sphere Theme",
+  "description": "A Dark theme for VS Code by Doriim",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "publisher": "Doriim",
+  "license": "MIT",
+  "icon": "",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Doriim/black-hole-sphere-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "black",
+    "black hole",
+    "black hole sphere"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Hole Sphere Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black Hole Sphere Theme-color-theme.json"
+      }
+    ]
+  }
+}
