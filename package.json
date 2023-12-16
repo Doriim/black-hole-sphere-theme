@@ -4,7 +4,7 @@
   "description": "A Dark theme for VS Code by Doriim",
   "version": "0.1.2",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.70.0"
   },
   "publisher": "Doriim",
   "license": "MIT",
